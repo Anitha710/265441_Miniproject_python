@@ -1,1 +1,1 @@
-# Hotel Management System Pyqt5 and Python 3
+# Hotel Management System with Pyqt5 and Python 3
