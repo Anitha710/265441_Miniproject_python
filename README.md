@@ -1,1 +1,1 @@
-# Patient Record Management System
+# Hotel Management System
