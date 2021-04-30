@@ -19,6 +19,8 @@
          Pip
          Setup tool
 ### Instructions to Run The Project:
-* Run MAIN.py file and the output of the proposed project is uploaded in the Screenshot folder, which was executed with the help of Pycharm IDE.
+* Activate Virtual environment like Pycharm
+* import the code present inside Source_code Folder
+* Run MAIN.py 
 
 
