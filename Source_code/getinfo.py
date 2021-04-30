@@ -75,7 +75,7 @@ class Ui_MainWindow(object):
                     MOBILE NO.-%s
                     YOUR TOTAL BILL IS Rs.-%s
                     YOUR ROOM NUMBER IS %s    
-                    '''%(name1,address,mobi,rooom,pappu)
+                    '''%(name1,address,mobi,pappu,rooom)
 
 
                     self.listWidget.addItem(self.b)
